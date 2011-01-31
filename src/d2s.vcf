@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schildt;Daniel;;;
+FN:Daniel Schildt
+ORG:autiomaa.org
+TITLE:Photographer + Web Developer
+EMAIL;type=WORK,INTERNET,PREF:daniel@autiomaa.org
+EMAIL;TYPE=HOME,INTERNET:daniel.schildt@gmail.com
+item1.X-ABLabel:_$!<Other>!$_
+TEL;TYPE=WORK,VOICE,MSG,PREF:+358503082257
+X-SKYPE;TYPE=PREF,HOME:autiomaa
+X-AIM;type=HOME;type=pref:daniel.schildt@gmail.com
+X-JABBER;type=WORK;type=pref:daniel.schildt@gmail.com
+X-MSN;type=WORK;type=pref:daniel.schildt@gmail.com
+URL:http\://autiomaa.org
+REV:2011-01-30
+END:VCARD
